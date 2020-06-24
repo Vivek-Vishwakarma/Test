@@ -1,0 +1,62 @@
+ul{
+    display: flex;
+    list-style: none;
+    height: 20px;
+}
+#nav{
+    background-color: lightgreen;
+    padding: 1px;
+    position: sticky;
+    border-radius: 28px;
+}
+header div ul a{
+    padding: 9px 15px;
+    margin: 5px 5px;
+    background-color: rgb(9, 168, 9);
+    border-radius: 22px
+}
+#nav a:hover{
+    background-color: green;
+}
+#backimage{
+    height: 500px;
+    width: 99%;
+    margin: 3px 3px;
+    padding: 3px 3px;
+    display:flex;
+
+}
+#logo{
+    height: 41px;
+    width: 45px;
+}
+section h2{
+    top: -480px;
+    position: relative;
+    color: white;
+    text-align: center;
+}
+
+#para{
+    color: white;
+    position: relative;
+    top: -185px;
+    text-align: center;
+}
+#sect{
+    height: 505px;
+}
+#box{
+    display: flex;
+    position: relative;
+    text-align: center;
+}
+.inside{
+    top: 30px;
+    margin: 3px 2px;
+    background-color: lightgreen;
+    padding: 3px 3px;
+}
+.in{
+    text-align: center;
+}
