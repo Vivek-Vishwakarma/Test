@@ -50,6 +50,7 @@ section h2{
     display: flex;
     position: relative;
     text-align: center;
+    font-size: 13px;
 }
 .inside{
     top: 30px;
